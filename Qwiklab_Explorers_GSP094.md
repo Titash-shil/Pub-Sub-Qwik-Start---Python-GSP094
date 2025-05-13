@@ -10,11 +10,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Fundamentals-of-Cloud-Logging-GSP610/refs/heads/main/qwiklab_explorers_gsp610.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Pub-Sub-Qwik-Start---Python-GSP094/refs/heads/main/qwiklab_explorers_gsp094.sh
 
-sudo chmod +x qwiklab_explorers_gsp610.sh
+sudo chmod +x qwiklab_explorers_gsp094.sh
 
-./qwiklab_explorers_gsp610.sh
+./qwiklab_explorers_gsp094.sh
 ```
 
 ---
